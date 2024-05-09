@@ -6,6 +6,10 @@
     height: 24px;
 }
 
+.icon-text {
+    margin-left: 5px; 
+}
+
 :root {
     --bgColor: #223344;
     --bgColor2: #090a0f;
@@ -53,6 +57,11 @@ body {
     width: 100%;
     text-align: center;
     text-decoration: none;
+}
+.link {
+    display: flex; 
+    align-items: center; 
+    text-decoration: none; 
 }
 
 #links {
